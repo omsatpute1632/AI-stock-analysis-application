@@ -19,7 +19,6 @@ menu = st.sidebar.selectbox(
         "Risk Analysis"
     ]
 )
-
 # STOCK PREDICTION
 
 st.header("Stock Price Prediction")
